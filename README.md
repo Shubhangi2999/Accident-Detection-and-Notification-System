@@ -1,5 +1,9 @@
 Accident Detection and Prediction system works on such an algorithm that can analyse the collision of vehicles and accidents, over the CCTV cameras, and in turn predict the areas that are prone to such mishappenings and also, the likelihood of the occurrence of an accident. 
 
+Includes the License Detection model for the detection and recognition of the license plate number of the vehicles collided.
+
+Please find my complete repo of the License Plate recognition here : https://github.com/rasleen298/License_Plate_recognition  
+
 Sends notification on your registerd mobile number with twilio API.
 
 ![image2](https://user-images.githubusercontent.com/37113163/70551558-bb098480-1b9d-11ea-8f7e-b03f6544344d.png)
@@ -8,3 +12,4 @@ Sends notification on your registerd mobile number with twilio API.
 
 ![image5](https://user-images.githubusercontent.com/37113163/70551740-1fc4df00-1b9e-11ea-9354-78669b4df09f.jpg)
 
+If any issues, write to me under the Issues section.
